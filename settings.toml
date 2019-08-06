@@ -1,0 +1,6 @@
+[default]
+pg_user = '57uff3r'
+pg_host = 'localhost'
+pg_port = '5432'
+pg_password = ''
+pg_db = 'handsru'
