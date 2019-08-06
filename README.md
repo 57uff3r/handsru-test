@@ -1,6 +1,6 @@
 # handsru-test
 
-![](demo.svg)
+[![Демка](https://asciinema.org/a/su9OVuv2aeW8D9vdrwWRRelQ2.png)](https://asciinema.org/a/su9OVuv2aeW8D9vdrwWRRelQ2)
 
 ## БД
 
